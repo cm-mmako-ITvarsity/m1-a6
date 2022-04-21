@@ -1,0 +1,88 @@
+.galery img{
+    width: 100%;
+}
+
+h4{
+    font-family: aerial;
+    color: blue;
+}
+h3{
+	font-family: aerial;
+    color: Brown;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+	
+}
+
+h2{
+    font-family: aerial;
+    color: purple;
+    font-style: italic;
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    font-family:aerial;
+}
+
+table{
+    font-family: aerial;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: blue;  
+}
+
+#menu{
+    width: 100%;
+    height: 40px;
+    background-color: cornflowerblue;
+    padding-top: 12px;
+}
+#menu a{
+    color: #ffffff;
+    font-family: aerial;
+    font-size: 18px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    padding-left: 20px;
+    padding-right: 20px;
+}
+#menu a:hover{
+    color: #5077bd;
+}
+
+#menu-bar a{
+    text-decoration: none;
+    color: navy;
+    font-weight: 800;
+    font-size: 14px;
+    font-family: aerial;
+    
+    background-image: url('images/menu-button.gif');
+    background-repeat: no-repeat;
+    display: block;
+    width: 128px;
+    height: 25px;
+    padding-left: 18px;
+    padding-top: 2px;
+    
+}
+.button {
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.button1 {background-color: #4CAF50;} /* Green */
+.button2 {background-color: #008CBA;} /* Blue */
+</style
